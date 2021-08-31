@@ -1,10 +1,10 @@
 ﻿{
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "nadare baseline embeddings",
       "tensorShape": [
-        1000,
-        50
+        29849,
+        128
       ],
       "tensorPath": "https://raw.githubusercontent.com/nadare881/jader_w2v_data/master/embedding.tsv",
       "metadataPath": "https://raw.githubusercontent.com/nadare881/jader_w2v_data/master/meta.tsv"
